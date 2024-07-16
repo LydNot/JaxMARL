@@ -194,7 +194,7 @@ RED_COLOUR = (214.0, 39.0, 40.0)
 
 class InTheGrid(MultiAgentEnv):
     """
-    JAX Compatible version of *inTheMatix environment.
+    JAX Compatible version of *inTheMatrix environment.
     """
 
     # used for caching
